@@ -16,7 +16,7 @@
 
 I was born in Warragul, Victoria, in December 1987. The youngest of four children, I have two brothers and a sister. Our late father was a truck driver; our mother works in customer service. I grew up in Trafalgar, where I attended the local primary and secondary school.
 
-I graduated from Trafalgar High School in 2005. Unlike many of my peers, I had not decided what I wanted to do, career-wise, so I opted to get a job rather than go to university straight away. My first job was as a trainee law clerk at a law firm in Traralgon. It sparked an interest in law, so I started to make plans to study law. I completed my Certificate IV in Business Administration while at this firm.
+I graduated from Trafalgar High School in 2005. Unlike many of my peers, I had not decided what I wanted to do, career-wise, so I opted to get a job rather than go to university straight away. My first job was as a trainee law clerk at a law firm in Traralgon. It sparked an interest in law, so I completed my Certificate IV in Business Administration as a pathway to study law.
 
 My plans were put on hold when I discovered that I was expecting my first child. My son was born in December 2007, just shy of my 20th birthday. From the time my son was 12 months old until when my daughter was born in 2010, I worked as a law clerk at a firm in Morwell. When I re-entered the workforce in 2013, I worked as an administrative assistant at an accounting firm in Morwell.
 
@@ -59,3 +59,33 @@ I plan to complete my Bachelor of Information Technology studies with RMIT in 20
 ### Test No. 1: Myer-Briggs Test
 
 The results of my Myer-Briggs Personality Test concluded that I am an INTJ or the Architect personality type.
+
+>"An Architect (INTJ) is a person with the Introverted, Intuitive, Thinking, and Judging personality traits. These thoughtful tacticians love perfecting the details of life, applying creativity and rationality to everything they do. Their inner world is often a private, complex one."
+>The INTJ personality type is the rarest of the 16 types, making up two per cent of the population. Female INTJs are even rarer, making up just 0.8%. People with this personality type are best suited to IT careers owing to their ability to convert complex principles into clear and actionable strategies.[1]
+
+There has been some criticism of the Myer-Briggs Test for the inconstancy of the results:
+
+>"Research has found that as many as 50 per cent of people arrive at a different result the second time they take a test, even if it's just five weeks later."[2]
+
+I have undertaken the Myer-Briggs Test twice – the first time was in 2017, and the second time was when completing this assignment. On both occasions, I received the same result. Criticism of the validity of the results notwithstanding, I believe that the results give an accurate indication of my personality type as I could quickly identify and agree with the explanations and descriptions of typical INTJ traits. In addition to suggested career pathways and workplace habits, the Myer-Briggs Test also provides insights into personal relationship behaviours, and strengths and weaknesses. Some examples of an INTJ personality type’s strengths are high self-confidence, independence and decisiveness. Some weaknesses are arrogance, judgmental and romantically clueless. I recognise these as being some of my more prominent personality traits and thus accept them as being an accurate representation of my personality type.
+
+### Test No. 2: The 'Learning Style' Test
+
+According to the results of the learning style test, I am 40.2% Pragmatic and 40.2% Theorist.
+
+_Pragmatists_ prefer the practical approach, needing to be able to put their learning into practice in the real world. The pragmatic approach to learning includes the use of practicals, case studies, problem setting, and discussions. _Theorists_ prefer to think through their problems in a logical manner and value rationality and objectivity. Learning methods suited to theorists are models, classroom response systems, story-telling and quotes, and tutorials.[3]
+
+I would agree with the results of this test. I have found with the _Introduction to Information Technology_ and the _Introduction of Programming_ courses that I am currently undertaking that I was able to grasp the concepts we are learning about once I could experiment with tutorials and practical demonstrations.
+
+### Test No. 3: Fisher Temperament Inventory
+
+The Fisher Temperament Inventory (FTI) is a measure of personality based on the idea that an individual’s behaviour is influenced by the dominance of particular neurotransmitters in the brain. The FTI identifies four chemical subsystems of the brain - dopamine, serotonin, testosterone and oestrogen - and measures four scales of behaviour believed to be produced by those systems, to give a result on an overall temperament type. The FTI test consists of 62 statements that the individual rates on a four-point scale of how much they agree with each statement.
+
+These are my results of the Fisher Temperament Inventory test. Each score on its four scales ranges from 0 to 43.
+
+Temperament | Associated Neurochemicals | My Score
+----------- | ------------ | ------------
+Curious / Energetic | dopamine, norepinephrine | 15 / 43
+Cautious/Social Norm Compliant | serotonin | 37 / 43
+Analytical/Tough-minded | testosterone | 36 / 43
+Prosocial/Empathetic	| estrogen, oxytocin |	16 / 43
