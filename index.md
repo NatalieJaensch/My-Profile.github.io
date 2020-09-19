@@ -89,3 +89,23 @@ Curious / Energetic | dopamine, norepinephrine | 15 / 43
 Cautious/Social Norm Compliant | serotonin | 37 / 43
 Analytical/Tough-minded | testosterone | 36 / 43
 Prosocial/Empathetic	| estrogen, oxytocin |	16 / 43
+
+My answer profile matches most strongly to the Cautious/Social Norm Compliant temperament.
+
+>“This temperament is dominated by the neurotransmitter serotonin, which is involved in relaxation and social belonging. People with this temperament are orderly and careful. They like to fit in with their social group and are wary of people who deviate. They are loyal.” [4]
+
+### Test Conclusion
+
+#### What do the results of these tests mean to me?
+
+There is consistency in each of the results of the tests. Each of them describes me as taking a logical, pragmatic, cautious approach to matters which I believe is why I am drawn to law, accounting and IT.
+
+#### How do I think these results may influence my behaviour in a team?
+
+I do not feel the results would influence my behaviours in terms of conduct or treatment of others in the team. However, because the results provide a level of clarity about what motivates me and the reasons behind particular behaviours, it may influence decisions such as volunteering to undertake a task or project if it suits my strengths.
+
+#### How should I take this into account when forming a team?
+
+From a management standpoint, I believe they offer a valuable insight into the mindset and personality traits of the person taking them, which can help when assembling special project teams or staff structures.
+
+Several months ago, the accounting team I worked for entered a business coaching program and part of the onboarding process was for each team member to undergo a test that identified key personality traits. These results assisted the business owner to determine who in the team would be best suited to particular roles within the business coaching plan. For example, my ID test determined that I would be best suited to the production management role as my practical and logical approach suits the analytical nature of the role. There was another team member whose key traits were more empathetic and emotional, so they became the ‘team cheerleader’ and was responsible for support and team morale, and also for developing strategies that enhanced the client experience.
