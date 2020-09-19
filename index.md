@@ -1,5 +1,7 @@
 # My Profile
 
+<a href="project-plan.md">Page2</a>
+
 ## Personal Information
 
 **Name:** Natalie Jaensch
