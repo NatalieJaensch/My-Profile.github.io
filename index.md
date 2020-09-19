@@ -1,7 +1,5 @@
 # My Profile
 
-<a href="project-plan.md">Page2</a>
-
 ## Personal Information
 
 **Name:** Natalie Jaensch
@@ -13,6 +11,8 @@
 **GitHub Repository:** [https://github.com/NatalieJaensch/My-Profile]
 
 **GitHub Page:** [https://nataliejaensch.github.io/My-Profile]
+
+<a href="project-plan.md">Project Plan</a>
 
 ![Image](https://user-images.githubusercontent.com/70944171/93665342-0c458d80-fab9-11ea-937b-cf3c3dc7fc2e.jpg)
 
