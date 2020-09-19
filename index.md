@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Profile
 
 You can use the [editor on GitHub](https://github.com/NatalieJaensch/My-Profile.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,17 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Personal Information
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Name:** Natalie Jaensch
 
 [Link](url) and ![Image](src)
 ```
