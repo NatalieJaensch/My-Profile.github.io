@@ -118,7 +118,3 @@ Several months ago, the accounting team I worked for entered a business coaching
 [3] 	LifeTrain, “Learning Styles Quiz,” [Online]. Available: http://www.emtrain.eu/learning-styles/. [Accessed 15 September 2020].
 
 [4] 	H. Fischer, “Open Psychometrics,” [Online]. Available: https://openpsychometrics.org/tests/FTI/results.php?s=31352c33372c33362c3136. [Accessed 15 September 2020].
-
-[5] 	J. Graham, “Fears about average age pof state’s dairy farmers,” Stock & Land, 9 January 2020. [Online]. Available: https://www.stockandland.com.au/story/6570039/fears-about-average-age-of-states-dairy-farmers/?cs=4786. [Accessed 19 September 2020].
-
-[6] 	CSIRO, “Pastures from Space,” 10 October 2019. [Online]. Available: https://www.csiro.au/en/Research/AF/Areas/Digital-agriculture/Cropping-pastures/Pastures-from-Space. [Accessed 19 September 2020].
