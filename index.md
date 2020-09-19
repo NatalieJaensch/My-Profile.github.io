@@ -12,8 +12,6 @@
 
 **GitHub Page:** [https://nataliejaensch.github.io/My-Profile]
 
-<a href="project-plan.md">Project Plan</a>
-
 ![Image](https://user-images.githubusercontent.com/70944171/93665342-0c458d80-fab9-11ea-937b-cf3c3dc7fc2e.jpg)
 
 I was born in Warragul, Victoria, in December 1987. The youngest of four children, I have two brothers and a sister. Our late father was a truck driver; our mother works in customer service. I grew up in Trafalgar, where I attended the local primary and secondary school.
@@ -111,6 +109,10 @@ I do not feel the results would influence my behaviours in terms of conduct or t
 From a management standpoint, I believe they offer a valuable insight into the mindset and personality traits of the person taking them, which can help when assembling special project teams or staff structures.
 
 Several months ago, the accounting team I worked for entered a business coaching program and part of the onboarding process was for each team member to undergo a test that identified key personality traits. These results assisted the business owner to determine who in the team would be best suited to particular roles within the business coaching plan. For example, my ID test determined that I would be best suited to the production management role as my practical and logical approach suits the analytical nature of the role. There was another team member whose key traits were more empathetic and emotional, so they became the ‘team cheerleader’ and was responsible for support and team morale, and also for developing strategies that enhanced the client experience.
+
+## Project Plan
+
+<a href="project-plan.md">Click to view Project Plan</a>
 
 ## References
 [1] 	16 Personalities, “The Architect,” [Online]. Available: https://www.16personalities.com/intj-personality. [Accessed 15 September 2020].
