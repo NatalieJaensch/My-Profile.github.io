@@ -109,3 +109,16 @@ I do not feel the results would influence my behaviours in terms of conduct or t
 From a management standpoint, I believe they offer a valuable insight into the mindset and personality traits of the person taking them, which can help when assembling special project teams or staff structures.
 
 Several months ago, the accounting team I worked for entered a business coaching program and part of the onboarding process was for each team member to undergo a test that identified key personality traits. These results assisted the business owner to determine who in the team would be best suited to particular roles within the business coaching plan. For example, my ID test determined that I would be best suited to the production management role as my practical and logical approach suits the analytical nature of the role. There was another team member whose key traits were more empathetic and emotional, so they became the ‘team cheerleader’ and was responsible for support and team morale, and also for developing strategies that enhanced the client experience.
+
+## References
+[1] 	16 Personalities, “The Architect,” [Online]. Available: https://www.16personalities.com/intj-personality. [Accessed 15 September 2020].
+
+[2] 	J. Stromberg and E. Caswell, “Why the Myers-Briggs test is totally meaningless,” Vox, 8 October 2015. [Online]. Available: https://www.vox.com/2014/7/15/5881947/myers-briggs-personality-test-meaningless. [Accessed 19 September 2020].
+
+[3] 	LifeTrain, “Learning Styles Quiz,” [Online]. Available: http://www.emtrain.eu/learning-styles/. [Accessed 15 September 2020].
+
+[4] 	H. Fischer, “Open Psychometrics,” [Online]. Available: https://openpsychometrics.org/tests/FTI/results.php?s=31352c33372c33362c3136. [Accessed 15 September 2020].
+
+[5] 	J. Graham, “Fears about average age pof state’s dairy farmers,” Stock & Land, 9 January 2020. [Online]. Available: https://www.stockandland.com.au/story/6570039/fears-about-average-age-of-states-dairy-farmers/?cs=4786. [Accessed 19 September 2020].
+
+[6] 	CSIRO, “Pastures from Space,” 10 October 2019. [Online]. Available: https://www.csiro.au/en/Research/AF/Areas/Digital-agriculture/Cropping-pastures/Pastures-from-Space. [Accessed 19 September 2020].
