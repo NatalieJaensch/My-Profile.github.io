@@ -112,7 +112,7 @@ Several months ago, the accounting team I worked for entered a business coaching
 
 ## Project Plan
 
-<a href="project-plan.html">Click to view Project Plan</a>
+<a href="project-plan.md">Click to view Project Plan</a>
 
 ## References
 [1] 	16 Personalities, “The Architect,” [Online]. Available: https://www.16personalities.com/intj-personality. [Accessed 15 September 2020].
