@@ -26,7 +26,7 @@ A comprehensive understanding of HTML and Javascript will be required to build t
 
 If my application is successful, it will be a tool that time-poor dairy farmers can use to make the daily operation and management of their dairy farms easier. Those in the Australian dairy industry are doing it tough, and I have witnessed the struggles that my brother and sister have endured for more than a decade. My vision is to develop technology that gives them all the valuable information they require in one central location so they can be better informed and can make better decisions. The ultimate goal is to make their lives that little bit less stressful. Another successful outcome for me would be that their time can be better spent with their families rather than wasted on transcribing hand-written notes onto a PC.
 
-<a href="index.html">Return to Home Page</a>
+<a href="index.md">Return to Home Page</a>
 
 ### References
 
